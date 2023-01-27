@@ -11,6 +11,9 @@ button.innerText = "click"
 /* Manejadores de eventos */
     /* Cuando queramos interactuar con la pagina */
     /* agregamos un evento de escucha  */
-button.addEventListener
+button.addEventListener("click", function() {
+    title.innerText = "texto actualizado con JS"
+    alert("se realizo un click")
+})
 
 document.body.append(button)
