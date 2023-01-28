@@ -13,7 +13,7 @@
 - #4 = SORTHAND_PROPERTY_NAMES                                      (Shorthand_property_names)
 - #5 = MANIPULACION DEL DOM                                         (Manipulación del DOM)
 |   - #5.1 = EVENT_HANDLER                                          (Event_handler)
-
+- #6 = DESTRUCTURING
 
 ## Proyecto final: lenguajes que vamos utilizar
 - react
