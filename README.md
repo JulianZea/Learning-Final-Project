@@ -19,3 +19,6 @@
 - react
 - python
 - mysql
+
+## Authors
+- Julian Zea
