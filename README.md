@@ -23,3 +23,4 @@
 
 ## Authors
 - Julian Zea
+- Iver Sutizal
