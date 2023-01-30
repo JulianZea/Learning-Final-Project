@@ -15,6 +15,8 @@
 |   - #5.1 = EVENT_HANDLER                                          (Event_handler)
 - #6 = DESTRUCTURING
 - #7 = FUNCIONES ANONIMAS
+- #8 = ARROW FUNCTIONS
+- #9 = INLINE ARROW FUNCTIONS
 
 ## Proyecto final: lenguajes que vamos utilizar
 - react
