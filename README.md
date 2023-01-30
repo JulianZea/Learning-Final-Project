@@ -26,3 +26,4 @@
 ## Authors
 - Julian Zea
 - Iver Sutizal
+- Carlos Cantoral
