@@ -17,6 +17,7 @@
 - #7 = FUNCIONES ANONIMAS
 - #8 = ARROW FUNCTIONS
 - #9 = INLINE ARROW FUNCTIONS
+- #10 = RETURN_EN_FUNCIONES
 
 ## Proyecto final: lenguajes que vamos utilizar
 - react
