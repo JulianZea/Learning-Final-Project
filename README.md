@@ -18,6 +18,8 @@
 - #8 = ARROW FUNCTIONS
 - #9 = INLINE ARROW FUNCTIONS
 - #10 = RETURN_EN_FUNCIONES
+- #11 = STRING_LITERALS
+- #12 = ARRAY_METHODS
 
 ## Proyecto final: lenguajes que vamos utilizar
 - react
